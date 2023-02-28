@@ -1,33 +1,3 @@
-# Disclaimer
-
-Thank you for this opportunity, not just for the interview but also for the challenge that I believe myself can do much better than this. I won't bored you with personal reasons behind the delay and the incompletes, this week was so hectic. No matter whether or not becoming a part of Shinka Network, I appreciate the challenge that I desperately need recently to spice up my ambition and curiosity. There're always things to learn even from this test project. I enjoyed this very much and would love hear your feedback if possible. Have a nice day!
-
-# How to start
-
-## 1. User State Behavihour Challenge <br/>
-
-https://vimeo.com/801790002
-
-## 2. Tiptap Challenge <br/>
-
-https://vimeo.com/801790169
-
-## 3. Price Tracker
-
-### How to start
-
-A simple API server that provides endpoints to retrieve ADA price in different resolutions.
-
-1. To sign up for discord notification, join this server via: https://discord.gg/rZwgGV35
-
-2. Run the project
-
-```
-docker-compose up
-```
-
-API Docs: http://127.0.0.1:3000/docs/shinka
-<br/><br/>
 
 ## 4. Media App
 
@@ -57,7 +27,7 @@ Tbh, there're lots of room for improvement with this open task.
 docker-compose up
 ```
 
-Client: http://127.0.0.1:5174 <br/>
+Client: http://127.0.0.1:5173 <br/>
 API Docs: http://127.0.0.1:3000/docs/shinka
 <br/><br/>
 

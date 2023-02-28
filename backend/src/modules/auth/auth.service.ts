@@ -33,6 +33,7 @@ export class AuthService {
           },
         },
       );
+      console.log("🚀 ~ file: auth.service.ts:36 ~ AuthService ~ handleCallback ~ data:", data)
       if (!areEqual(scope, data.scope.split(' '))) {
         throw new UnauthorizedException(
           `Expected scope "${scope}" but received scope "${data.scope}`,
